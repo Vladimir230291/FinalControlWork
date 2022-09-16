@@ -1,0 +1,15 @@
+/home/user/Документы/C#/FinalControlWork/programm/bin/Debug/net6.0/programm
+/home/user/Документы/C#/FinalControlWork/programm/bin/Debug/net6.0/programm.deps.json
+/home/user/Документы/C#/FinalControlWork/programm/bin/Debug/net6.0/programm.runtimeconfig.json
+/home/user/Документы/C#/FinalControlWork/programm/bin/Debug/net6.0/programm.dll
+/home/user/Документы/C#/FinalControlWork/programm/bin/Debug/net6.0/programm.pdb
+/home/user/Документы/C#/FinalControlWork/programm/obj/Debug/net6.0/programm.csproj.AssemblyReference.cache
+/home/user/Документы/C#/FinalControlWork/programm/obj/Debug/net6.0/programm.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Документы/C#/FinalControlWork/programm/obj/Debug/net6.0/programm.AssemblyInfoInputs.cache
+/home/user/Документы/C#/FinalControlWork/programm/obj/Debug/net6.0/programm.AssemblyInfo.cs
+/home/user/Документы/C#/FinalControlWork/programm/obj/Debug/net6.0/programm.csproj.CoreCompileInputs.cache
+/home/user/Документы/C#/FinalControlWork/programm/obj/Debug/net6.0/programm.dll
+/home/user/Документы/C#/FinalControlWork/programm/obj/Debug/net6.0/refint/programm.dll
+/home/user/Документы/C#/FinalControlWork/programm/obj/Debug/net6.0/programm.pdb
+/home/user/Документы/C#/FinalControlWork/programm/obj/Debug/net6.0/programm.genruntimeconfig.cache
+/home/user/Документы/C#/FinalControlWork/programm/obj/Debug/net6.0/ref/programm.dll
